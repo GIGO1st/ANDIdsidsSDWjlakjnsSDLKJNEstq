@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 38ca7602f258ad94383d803be77115dd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1st floor
+    100002: 1st floor shops
+    100004: 2nd floor
+    100006: 2nd floor large store
+    100008: 2nd floor large store.001
+    100010: 2nd floor large store.002
+    100012: 2nd floor large store.003
+    100014: 2nd floor large store.004
+    100016: escaltor
+    100018: escaltor.001
+    100020: escaltor.002
+    100022: escaltor.003
+    100024: escaltor.004
+    100026: escaltor.005
+    100028: escaltor.006
+    100030: escaltor.007
+    100032: escaltor.008
+    100034: escaltor.009
+    100036: escaltor.010
+    100038: escaltor.011
+    100040: floor 2 railing
+    100042: //RootNode
+    100044: starbucks
+    100046: Sun
+    400000: 1st floor
+    400002: 1st floor shops
+    400004: 2nd floor
+    400006: 2nd floor large store
+    400008: 2nd floor large store.001
+    400010: 2nd floor large store.002
+    400012: 2nd floor large store.003
+    400014: 2nd floor large store.004
+    400016: escaltor
+    400018: escaltor.001
+    400020: escaltor.002
+    400022: escaltor.003
+    400024: escaltor.004
+    400026: escaltor.005
+    400028: escaltor.006
+    400030: escaltor.007
+    400032: escaltor.008
+    400034: escaltor.009
+    400036: escaltor.010
+    400038: escaltor.011
+    400040: floor 2 railing
+    400042: //RootNode
+    400044: starbucks
+    400046: Sun
+    2100000: escolater
+    2100002: esclator stairs
+    2100004: concreete
+    2100006: floor
+    2100008: No Name
+    2300000: 1st floor
+    2300002: 1st floor shops
+    2300004: 2nd floor
+    2300006: 2nd floor large store
+    2300008: 2nd floor large store.001
+    2300010: 2nd floor large store.002
+    2300012: 2nd floor large store.003
+    2300014: 2nd floor large store.004
+    2300016: escaltor
+    2300018: escaltor.001
+    2300020: escaltor.002
+    2300022: escaltor.003
+    2300024: escaltor.004
+    2300026: escaltor.005
+    2300028: escaltor.006
+    2300030: escaltor.007
+    2300032: escaltor.008
+    2300034: escaltor.009
+    2300036: escaltor.010
+    2300038: escaltor.011
+    2300040: floor 2 railing
+    2300042: starbucks
+    3300000: 1st floor
+    3300002: 1st floor shops
+    3300004: 2nd floor
+    3300006: 2nd floor large store
+    3300008: 2nd floor large store.001
+    3300010: 2nd floor large store.002
+    3300012: 2nd floor large store.003
+    3300014: 2nd floor large store.004
+    3300016: escaltor
+    3300018: escaltor.001
+    3300020: escaltor.002
+    3300022: escaltor.003
+    3300024: escaltor.004
+    3300026: escaltor.005
+    3300028: escaltor.006
+    3300030: escaltor.007
+    3300032: escaltor.008
+    3300034: escaltor.009
+    3300036: escaltor.010
+    3300038: escaltor.011
+    3300040: floor 2 railing
+    3300042: starbucks
+    4300000: escaltor.011
+    4300002: escaltor.010
+    4300004: escaltor.009
+    4300006: escaltor.008
+    4300008: escaltor.007
+    4300010: escaltor.006
+    4300012: escaltor.005
+    4300014: escaltor.004
+    4300016: escaltor.003
+    4300018: escaltor.002
+    4300020: escaltor.001
+    4300022: escaltor
+    4300024: 2nd floor large store.004
+    4300026: 2nd floor large store.003
+    4300028: 2nd floor large store.002
+    4300030: 2nd floor large store.001
+    4300032: floor 2 railing
+    4300034: 2nd floor large store
+    4300036: 2nd floor
+    4300038: starbucks
+    4300040: 1st floor shops
+    4300042: 1st floor
+    10800000: Sun
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
